@@ -1,8 +1,9 @@
 # 部署步骤
-- composer install
 - 复制一份.env.example，重命名为.env
 - 配置.env中的数据库参数
-- 进入项目目录执行命令：php artisan key:generate  生成项目密钥
+- 进入项目目录执行命令
+- composer install
+- php artisan key:generate  生成项目密钥
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
